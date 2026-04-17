@@ -1,0 +1,31 @@
+# Maven
+target/
+*.class
+
+# Spring Boot
+*.jar
+*.war
+
+# H2 database files
+*.db
+*.mv.db
+*.trace.db
+
+# Uploaded files (generated at runtime)
+uploads/
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
